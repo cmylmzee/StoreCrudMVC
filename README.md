@@ -146,10 +146,5 @@ Eğer projeye katkıda bulunmak istiyorsanız:
 
 ---
 
-## Lisans
-Bu proje açık kaynak olup MIT lisansı ile dağıtılmaktadır.
-
----
-
 Bu proje hakkında sorularınız veya önerileriniz varsa, benimle iletişime geçebilirsiniz. 🚀
 
