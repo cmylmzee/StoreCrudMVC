@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|c:\\users\\90545\\onedrive\\masa\u00FCst\u00FC\\c# projeler\\storecrudmvc\\storecrudmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D6E6AA6-7879-439B-BD33-F7739AED89A3}|StoreCrudMVC\\StoreCrudMVC.csproj|solutionrelative:storecrudmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "StoreCrudMVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T16:27:08.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "StoreCrudMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T12:46:38.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "StoreCrudMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T10:15:39.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "StoreCrudMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAawJcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:13:18.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Models\\ProductDto.cs",
+              "RelativeToolTip": "StoreCrudMVC\\Models\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:53:13.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Models\\Product.cs",
+              "RelativeToolTip": "StoreCrudMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:28:51.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StoreCrudMVC\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:25:26.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Program.cs",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\Program.cs",
+              "RelativeToolTip": "StoreCrudMVC\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:23:46.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "StoreCrudMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\90545\\OneDrive\\Masa\u00FCst\u00FC\\C# Projeler\\StoreCrudMVC\\StoreCrudMVC\\appsettings.json",
+              "RelativeToolTip": "StoreCrudMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T13:23:40.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
